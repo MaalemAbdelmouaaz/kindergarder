@@ -1,2 +1,2 @@
-# kindergarder
+# kindergarten
 complete responsive kindergarten website
